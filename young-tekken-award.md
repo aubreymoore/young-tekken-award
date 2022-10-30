@@ -1,8 +1,6 @@
-## Story Leed
+## Story Leed - Aubrey Moore 2020-10-31
 
 # Guam Golf Course Superintendant Russell Young Wins the GCSAA Innovative Conservation Award for Managing Coconut Rhinoceros Beetles Based on Research by the University of Guam 
-
-Aubrey Moore 2020-10-31
 
 The Golf Course Superintendents Association of America (GCSAA) named four superintendents winners of the 2022 Environmental Leaders in Golf Awards (ELGA). GCSAA in partnership with Syngenta, present the awards annually ([announcement](https://www.golfdom.com/gcsaa-names-four-environmental-leaders-in-golf-award-winners/)).
 
@@ -12,10 +10,4 @@ Use of tekken netting as an effective tool for managing rhino beetles was discov
 
 <img src="Golf-course_Tekken-netting_20210416_001156207.rotated.jpg" width="500">
 
-![](Golf-course_Tekken-netting_20210416_001156207.rotated.jpg){ widht=10%}
-
 Photo courtesy of Dr. Ken Puliafico, Colorado State University Center for Environment Management of Military Lands.
-
-
-
-
