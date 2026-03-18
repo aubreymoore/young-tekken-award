@@ -6,4 +6,4 @@ https://www.uog.edu/news-announcements/2022-2023/2022-uog-developed-rhino-beetle
 
 Tech report available at:
 
-https://github.com/
+https://raw.githubusercontent.com/aubreymoore/young-tekken-award/main/FishNetTest.pdf
